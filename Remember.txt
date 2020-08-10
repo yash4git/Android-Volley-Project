@@ -1,0 +1,2 @@
+1. Added uses_permission as INTERNET
+2. Add volley to dependencies in build.gradle file 
